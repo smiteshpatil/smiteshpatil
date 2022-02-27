@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smiteshpatil&label=Profile%20views&color=0e75b6&style=flat" alt="smiteshpatil" /> </p>
 
-- 🌱 I’m currently learning **Python,Full Stack Developement**
+- 🌱 I’m currently learning **Full Stack Developement**
 
-- 📫 How to reach me **smiteshp2001@gmail.com**
+- 📫 reach me at**smiteshp2001@gmail.com**
 
 - ⚡**I think I am Funny**
 
