@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Developement**
 
-- 📫 reach me at**smiteshp2001@gmail.com**
+- 📫 reach me at **smiteshp2001@gmail.com**
 
 - ⚡**I think I am Funny**
 
