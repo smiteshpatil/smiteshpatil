@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://unsplash.com/photos/BlIhVfXbi9s" alt="smiteshpatil" /> </p>
+<p align="center"> <img src="https://github.com/smiteshpatil/smiteshpatil/blob/main/github_background.jpg?raw=true" alt="smiteshpatil" /> </p>
 <h1 align="center">Hi 👋, I'm Smitesh Patil</h1>
 <h3 align="center">A passionate developer from India.</h3>
 
