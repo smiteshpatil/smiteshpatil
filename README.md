@@ -1,9 +1,8 @@
 # Hi there! 👋
 
-I'm [Smitesh], a passionate [Developer] from [Pune].
+I'm Smitesh, a passionate Developer from Pune.
 
 ## 🔧 Technologies & Tools
-
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=tech1&logoColor=007396)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=tech3&logoColor=3498db)
@@ -35,6 +34,7 @@ Connect with me and let's build amazing things together!
 </br>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=smiteshpatil.smiteshpatil" alt="Visitors Counter">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=smiteshpatil.smiteshpatil" alt="Visitors Counter">
+
 </p>
 
