@@ -5,14 +5,14 @@ I'm [Smitesh], a passionate [Developer] from [Pune].
 ## 🔧 Technologies & Tools
 
 
-![MongoDB](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1&logoColor=007396)
-![Express](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3&logoColor=3498db)
-![React](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1&logoColor=007396)
-![Node](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2&logoColor=9B59B6)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=tech1&logoColor=007396)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=tech3&logoColor=3498db)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=tech1&logoColor=007396)
+![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=tech2&logoColor=9B59B6)
 
 ## 🌱 I'm currently learning
 
-![](https://img.shields.io/badge/-Learning1-333333?style=flat&logo=learning1&logoColor=4CAF50)
+![J2EE](https://img.shields.io/badge/-J2EE-333333?style=flat&logo=learning1&logoColor=4CAF50)
 
 ## 👨‍💻 What I'm working on
 
