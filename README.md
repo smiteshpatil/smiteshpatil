@@ -4,10 +4,10 @@ I'm Smitesh, a passionate Developer from Pune.
 
 ## 🔧 Technologies & Tools
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=tech1&logoColor=007396)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=tech1&logoColor=47A248)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=tech3&logoColor=3498db)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=tech1&logoColor=007396)
-![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=tech2&logoColor=9B59B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=tech1&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=tech2&logoColor=8CC84B)
 
 ## 🌱 I'm currently learning
 
